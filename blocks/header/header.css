@@ -2,7 +2,9 @@
     min-height: 52px;
     min-width: 1184px;
     padding: 0;
-    position: absolute;
+    position: relative;
     top: 28px;
     left: 48px;
+    display: flex;
+
 }
