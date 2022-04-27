@@ -2,4 +2,26 @@
     font-family: 'Inter', Arial, sans-serif;
     color: #FFFFFF;
     background: #2A2C2F;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1280px;
+    min-width: 320px;
+}
+
+@media screen and (max-width: 1024px) {
+    .content {
+      max-width: 1024px;
+    }
+}
+  
+@media screen and (max-width: 768px) {
+    .content {
+      max-width: 768px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .content {
+      max-width: 320px;
+    }
 }

@@ -1,8 +1,8 @@
 .header__lang-item{
-    margin: 0px 47px 6px 0px;
+    margin: 0px 18px 6px 0px;
     padding: 0px;
 }
 
 .header__lang-item:last-child{
-    margin-right: 0px;
+    margin-right: 0px; 
 }
