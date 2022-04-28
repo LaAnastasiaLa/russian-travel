@@ -1,15 +1,14 @@
 .intro{
     max-width: 720px;
-    width: calc(100% - 590px);
-    margin: 0 442px 0 148px;
+    width: calc(100% - 256px);
+    margin: 0 auto;
     padding: 0px 0px 92px 0px;
 }
 
 @media screen and (max-width: 1024px){
     .intro{
         max-width: 690px;
-        width: calc(100% - 334px);
-        margin: 0 0 0 48px;
+        width: calc(100% - 48px);
     }
 }
 
@@ -17,7 +16,6 @@
     .intro{
         max-width: 720px;
         width: calc(100% - 48px);
-        margin: 0 auto;
         padding: 0px 0px 88px 0px;
     }
 }
@@ -26,7 +24,6 @@
     .intro{
         max-width: 288px;
         width: calc(100% - 32px);
-        margin: 0 auto;
         padding: 0px 0px 64px 0px;
     }
 }

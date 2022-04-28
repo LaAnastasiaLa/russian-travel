@@ -3,7 +3,7 @@
     margin: 0px auto;
     padding: 0px 0px 92px 0px;
     display: flex;
-    flex-direction: columns;
+    flex-direction: column;
 }
 
 @media screen and (max-width: 1024px) {
@@ -14,14 +14,12 @@
 
 @media screen and (max-width: 768px) {
     .cover{
-        width: 100%;
         padding: 0px 0px 88px 0px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .cover{
-        width: 100%;
         padding: 0px 0px 64px 0px;
     }
 }

@@ -50,5 +50,6 @@
     .cover__background{
         min-height: 200px;
         max-width: 100%;
+        justify-content: flex-start;
     }
 }
