@@ -4,9 +4,10 @@
     line-height: 107%;
     font-size: 54px;
     font-weight: 900;
+    display: flex;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 480px){
     .intro__title{
         line-height: 109%;
         font-size: 32px;
